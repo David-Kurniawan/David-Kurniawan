@@ -25,8 +25,7 @@
 
 <h2>Brain behind:</h2>
 <p>
-  <img src="https://tokoig.com/images/logodashboard.png" width="150" />
-  <img src="https://www.semai.co.id/wp-content/uploads/2021/07/logo-1080-putih-8.png" width="150" />
+  <img src="https://www.semai.co.id/wp-content/uploads/2021/07/Artboard-1.png" width="150" />
 </p>
 
 Here are some info to know about me:
