@@ -25,7 +25,7 @@
 
 <h2>Brain behind:</h2>
 <p>
-  <img src="https://www.semai.co.id/wp-content/uploads/2021/07/Artboard-1.png" width="150" />
+  <img src="https://www.semai.co.id/wp-content/uploads/2021/07/Artboard-1.png" width="250" />
 </p>
 
 Here are some info to know about me:
