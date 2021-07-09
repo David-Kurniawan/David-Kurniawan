@@ -6,6 +6,7 @@
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-0073AA?style=flat-square&logo=Wordpress&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31628B?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3BD580?style=flat-square&logo=Android&logoColor=white" />
   <img alt="IOS" src="https://img.shields.io/badge/-IOS-EBEBEB?style=flat-square&logo=apple&logoColor=black" />
