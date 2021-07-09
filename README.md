@@ -35,6 +35,6 @@ Here are some info to know about me:
 - 🌱 Always use microservices for the high end project
 - 👯 API Gateway is the key for microservice arch
 - 😄 Team management is like manage my assets
-- ⚡ Project timeline is like my wife 
+- ⚡ Project timeline is like my girlfriend 
 
 <h1>👋 See you around in the next project!</h1>
